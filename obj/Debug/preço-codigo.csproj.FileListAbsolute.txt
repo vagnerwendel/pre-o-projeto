@@ -1,0 +1,8 @@
+C:\Users\wende\OneDrive\Área de Trabalho\Visual-Studio\preço-codigo\obj\Debug\preço-codigo.csproj.AssemblyReference.cache
+C:\Users\wende\OneDrive\Área de Trabalho\Visual-Studio\preço-codigo\obj\Debug\preço-codigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\wende\OneDrive\Área de Trabalho\Visual-Studio\preço-codigo\obj\Debug\preço-codigo.csproj.CoreCompileInputs.cache
+C:\Users\wende\OneDrive\Área de Trabalho\Visual-Studio\preço-codigo\bin\Debug\preço-codigo.exe.config
+C:\Users\wende\OneDrive\Área de Trabalho\Visual-Studio\preço-codigo\bin\Debug\preço-codigo.exe
+C:\Users\wende\OneDrive\Área de Trabalho\Visual-Studio\preço-codigo\bin\Debug\preço-codigo.pdb
+C:\Users\wende\OneDrive\Área de Trabalho\Visual-Studio\preço-codigo\obj\Debug\preço-codigo.exe
+C:\Users\wende\OneDrive\Área de Trabalho\Visual-Studio\preço-codigo\obj\Debug\preço-codigo.pdb
